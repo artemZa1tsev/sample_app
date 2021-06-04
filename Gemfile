@@ -56,3 +56,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'rexml', '~> 3.2.4'
+gem 'minitest', group: :test
+gem 'minitest-reporters', group: :test
+gem 'guard-rspec', '4.6.0'
+
